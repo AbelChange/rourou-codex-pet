@@ -4,6 +4,12 @@
 
 ![肉肉待机预览](previews/idle.gif)
 
+## 微信表情包
+
+肉肉也有微信表情包啦！使用微信扫描下方二维码，或点击图片进入表情包页面。
+
+[<img src="assets/wechat-stickers-qr.png" alt="肉肉微信表情包推广二维码" width="280">](https://sticker.weixin.qq.com/cgi-bin/mmemoticon-bin/emoticonview?oper=single&t=shop/detail&productid=aL2PCfwK/89qO7sF6/+I+UDhfwEjhec2ZNvdnLLJRd/NrJb3FkiFwbd1YpGCZ5zL4MHjPr1qNf87yo6cMPHp19aWYhl/YrQTVDQEQc11LFwI=)
+
 ## 能做什么
 
 支持9种标准动作：待机眨眼、向右移动、向左移动、挥手、小跳、失败反应、等待输入、任务处理中、检查结果；另有16个视线方向。动作触发由客户端控制。
